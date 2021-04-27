@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p3tzata.
 - 👀 I’m interested in Java and Spring.
 - 🌱 I’m currently learning Java(Spring), OOP and practice algorithms.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with frendly Java team with responsive Team leader.
 - 📫 How to reach me ...
 
 <!---
