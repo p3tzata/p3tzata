@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p3tzata.
-- 👀 I’m interested in Java and Spring.
+- 👀 I’m interested in Java(Spring) and Angular.
 - 🌱 I’m currently learning Java(Spring), Angular, OOP and practice algorithms.
 - 💞️ 
 - 📫 How to reach me ...
